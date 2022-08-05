@@ -3,6 +3,51 @@
 		"repoName": "Unique Test Repo",
 		"repoIcon": "https://i.kym-cdn.com/photos/images/original/000/041/494/1241026091_youve_been_rickrolled.gif"
 	},
+	"Demo": [{
+		"name": "Cheyote Demo",
+		"version": "1.0",
+		"icon": "https://pbs.twimg.com/profile_images/1548987697196408834/1UhCWE7P_400x400.jpg",
+		"down": "https://mega.nz/file/EOYyxR7a#XSF3kKbGcvC8Ltwq_EruALnE1YMjJyq-UcVQgl8DN04",
+		"dev": "haxi0",
+		"category": "Demo",
+		"description": "A demonstration of Jailbreak iOS 15-15.1.1",
+		"banner": "https://pbs.twimg.com/media/FX8dJmcXEAU0Prh?format=png&name=large",
+		"screenshots": "https://pbs.twimg.com/media/FYp-CFkXkAAmFNk?format=png&name=large",
+		"contact": "https://twitter.com/haxi0sm"
+	}, {
+		"name": "Sileo Demo",
+		"version": "2.3",
+		"icon": "https://raw.githubusercontent.com/Sileo/Sileo/stable/Icons/OG/OG_iOS.png",
+		"down": "https://github.com/Sileo/Sileo/releases/download/2.3/sileo_demo_2.3.ipa",
+		"dev": "Sileo-Team",
+		"category": "Demo",
+		"description": " A Demonstration of Sileo, modern Package Manager. Non-jailbroken users can experience the same speed as jailbroken users!",
+		"banner": "https://pbs.twimg.com/profile_banners/1019260900950364160/1545686584/1500x500",
+		"screenshots": [
+			"https://pbs.twimg.com/media/FPZEnC7WQAAQEDP?format=png&name=large",
+			"https://pbs.twimg.com/media/Eorb1v5XMAEfr8O?format=png&name=large",
+			"https://pbs.twimg.com/media/EHOY1a4VUAAz4s3?format=png&name=large"
+		],
+		"contact": [
+			"https://getsileo.app/",
+			"https://twitter.com/getsileo"
+		]
+	}, {
+		"name": "Zebra Demo",
+		"version": "1.1.17",
+		"icon": "https://raw.githubusercontent.com/zbrateam/Zebra/master/Zebra/Assets.xcassets/App%20Icons/AppIcon.appiconset/icon_83.5%402x.png",
+		"down": "https://github.com/zbrateam/Zebra/releases/download/v1.1.17/Zebra-1.1.17.ipa",
+		"dev": "Zebra-Team",
+		"category": "Demo",
+		"description": " A Temonstration of Zebra, Useful Package Manager for iOS",
+		"changelog": "- Added category icons, made by alpha\n- Added a handler for if sbreload fails to run\n- Updated localisations\n- Fixed bug where payments would fail on Face ID devices\n- Memory optimisations and reduce number of excess objects made\n- Fix bug where certain packages could cause a crash due to bad characters in versions\n- Change Havoc to be a default repo replacing Packix\n- Fixed bug where images would sometimes take longer than expected to load in\n- Fix misc crashes",
+		"banner": "https://pbs.twimg.com/profile_banners/1127487133990526976/1557677350/1500x500",
+		"screenshots": "https://pbs.twimg.com/media/EQEI2GWX0AA4lR9?format=png&name=large",
+		"contact": [
+			"https://getzbra.com/",
+			"https://twitter.com/getZebra"
+		]
+	}],
 	"Emulators": [{
 		"name": "PPSSPP",
 		"version": "1.13.1",
