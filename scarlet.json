@@ -11,7 +11,8 @@
 		"dev": "PPSSPP-Team",
 		"category": "Emulators",
 		"bundleID": "org.ppsspp.ppsspp",
-		"description": "Created by Henrik Rydgård.",
+		"description": "A fast and portable PSP emulator",
+		"changelog": "- Confirmation dialog added before change of MAC address\n- IR interpreter regression fixed\n- Fix clearing of replacement texture cache\n- Improved Portuguese-pt translation\n- Fix graphical regression in Split/Second\n- Couple of minor crash fixes",
 		"banner": "https://pbs.twimg.com/profile_banners/764091650/1490958762/1500x500",
 		"screenshots": [
 			"https://play-lh.googleusercontent.com/HAp1cxykBnmG9b_w2NTFv_z_zgxpQB0pGYQw74fg6aY4egDlW-MQ_Rv5fCcMhgN5zpo=w5120-h2880",
