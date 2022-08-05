@@ -1,0 +1,28 @@
+{
+	"META": {
+		"repoName": "Unique Test Repo",
+		"repoIcon": "https://i.kym-cdn.com/photos/images/original/000/041/494/1241026091_youve_been_rickrolled.gif"
+	},
+	"Emulators": [{
+		"name": "PPSSPP",
+		"version": "1.13.1",
+		"icon": "https://raw.githubusercontent.com/hrydgard/ppsspp/master/ios/assets/Icon-72%403x.png",
+		"down": "https://p.xx.wtf/PPSSPP_v1.13.1-171-g39cbc253f.ipa",
+		"dev": "PPSSPP-Team",
+		"category": "Emulators",
+		"bundleID": "org.ppsspp.ppsspp",
+		"description": "Created by Henrik Rydgård.",
+		"banner": "https://pbs.twimg.com/profile_banners/764091650/1490958762/1500x500",
+		"screenshots": [
+			"https://play-lh.googleusercontent.com/HAp1cxykBnmG9b_w2NTFv_z_zgxpQB0pGYQw74fg6aY4egDlW-MQ_Rv5fCcMhgN5zpo=w5120-h2880",
+			"https://www.ppsspp.org/img/screens/Assassins_Creed_Bloodlines_-_A_Yuanda.jpg",
+			"https://www.ppsspp.org/img/screens/Initial_D_Street_Stage_-_jonz2019.jpg",
+			"https://www.ppsspp.org/img/screens/Monster_Hunter_Freedom_Unite_-_Abbanon.jpg",
+			"https://www.ppsspp.org/img/screens/NARUTO_SHIPPUDEN_Ultimate_Ninja_Impact_-_A_Yuanda.jpg"
+		],
+		"contact": [
+			"https://www.ppsspp.org/",
+			"https://twitter.com/ppsspp_emu"
+		]
+	}]
+}
