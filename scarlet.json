@@ -3,24 +3,25 @@
 		"repoName": "Unique Test Repo",
 		"repoIcon": "https://i.kym-cdn.com/photos/images/original/000/041/494/1241026091_youve_been_rickrolled.gif"
 	},
-	"Demo": [{
+	"Jailbreaks": [{
 		"name": "Cheyote Demo",
 		"version": "1.0",
 		"icon": "https://pbs.twimg.com/profile_images/1548987697196408834/1UhCWE7P_400x400.jpg",
 		"down": "https://mega.nz/file/EOYyxR7a#XSF3kKbGcvC8Ltwq_EruALnE1YMjJyq-UcVQgl8DN04",
 		"dev": "haxi0",
-		"category": "Demo",
+		"category": "Jailbreaks",
 		"description": "A demonstration of Jailbreak iOS 15-15.1.1",
-		"banner": "https://pbs.twimg.com/media/FX8dJmcXEAU0Prh?format=png&name=large",
+		"banner": "https://upload.wikimedia.org/wikipedia/commons/d/de/Sechium_edule_dsc07767.jpg",
 		"screenshots": "https://pbs.twimg.com/media/FYp-CFkXkAAmFNk?format=png&name=large",
-		"contact": "https://twitter.com/haxi0sm"
+		"contact": 
+			"twitter": "https://twitter.com/haxi0sm"
 	}, {
 		"name": "Sileo Demo",
 		"version": "2.3",
 		"icon": "https://raw.githubusercontent.com/Sileo/Sileo/stable/Icons/OG/OG_iOS.png",
 		"down": "https://github.com/Sileo/Sileo/releases/download/2.3/sileo_demo_2.3.ipa",
 		"dev": "Sileo-Team",
-		"category": "Demo",
+		"category": "Jailbreaks",
 		"description": " A Demonstration of Sileo, modern Package Manager. Non-jailbroken users can experience the same speed as jailbroken users!",
 		"banner": "https://pbs.twimg.com/profile_banners/1019260900950364160/1545686584/1500x500",
 		"screenshots": [
@@ -28,25 +29,25 @@
 			"https://pbs.twimg.com/media/Eorb1v5XMAEfr8O?format=png&name=large",
 			"https://pbs.twimg.com/media/EHOY1a4VUAAz4s3?format=png&name=large"
 		],
-		"contact": [
-			"https://getsileo.app/",
-			"https://twitter.com/getsileo"
-		]
+		"contact": {
+			"Dev Website": "https://getsileo.app/",
+			"twitter": "https://twitter.com/getsileo"
+		}
 	}, {
 		"name": "Zebra Demo",
 		"version": "1.1.17",
 		"icon": "https://raw.githubusercontent.com/zbrateam/Zebra/master/Zebra/Assets.xcassets/App%20Icons/AppIcon.appiconset/icon_83.5%402x.png",
 		"down": "https://github.com/zbrateam/Zebra/releases/download/v1.1.17/Zebra-1.1.17.ipa",
 		"dev": "Zebra-Team",
-		"category": "Demo",
-		"description": " A Temonstration of Zebra, Useful Package Manager for iOS",
+		"category": "Jailbreaks",
 		"changelog": "- Added category icons, made by alpha\n- Added a handler for if sbreload fails to run\n- Updated localisations\n- Fixed bug where payments would fail on Face ID devices\n- Memory optimisations and reduce number of excess objects made\n- Fix bug where certain packages could cause a crash due to bad characters in versions\n- Change Havoc to be a default repo replacing Packix\n- Fixed bug where images would sometimes take longer than expected to load in\n- Fix misc crashes",
+		"description": " A Temonstration of Zebra, Useful Package Manager for iOS",
 		"banner": "https://pbs.twimg.com/profile_banners/1127487133990526976/1557677350/1500x500",
 		"screenshots": "https://pbs.twimg.com/media/EQEI2GWX0AA4lR9?format=png&name=large",
-		"contact": [
-			"https://getzbra.com/",
-			"https://twitter.com/getZebra"
-		]
+		"contact": {
+			"Dev Website": "https://getzbra.com/",
+			"twitter": "https://twitter.com/getZebra"
+		}
 	}],
 	"Emulators": [{
 		"name": "PPSSPP",
@@ -55,9 +56,8 @@
 		"down": "https://p.xx.wtf/PPSSPP_v1.13.1-171-g39cbc253f.ipa",
 		"dev": "PPSSPP-Team",
 		"category": "Emulators",
-		"bundleID": "org.ppsspp.ppsspp",
-		"description": "A fast and portable PSP emulator",
 		"changelog": "- Confirmation dialog added before change of MAC address\n- IR interpreter regression fixed\n- Fix clearing of replacement texture cache\n- Improved Portuguese-pt translation\n- Fix graphical regression in Split/Second\n- Couple of minor crash fixes",
+		"description": "A fast and portable PSP emulator",
 		"banner": "https://pbs.twimg.com/profile_banners/764091650/1490958762/1500x500",
 		"screenshots": [
 			"https://play-lh.googleusercontent.com/HAp1cxykBnmG9b_w2NTFv_z_zgxpQB0pGYQw74fg6aY4egDlW-MQ_Rv5fCcMhgN5zpo=w5120-h2880",
@@ -66,10 +66,11 @@
 			"https://www.ppsspp.org/img/screens/Monster_Hunter_Freedom_Unite_-_Abbanon.jpg",
 			"https://www.ppsspp.org/img/screens/NARUTO_SHIPPUDEN_Ultimate_Ninja_Impact_-_A_Yuanda.jpg"
 		],
-		"contact": [
-			"https://www.ppsspp.org/",
-			"https://twitter.com/ppsspp_emu"
-		]
+		"bundleID": "org.ppsspp.ppsspp",
+		"contact": {
+			"Dev Website": "https://www.ppsspp.org/",
+			"twitter": "https://twitter.com/ppsspp_emu"
+		}
 	}, {
 		"name": "Play!",
 		"version": "0.54",
@@ -77,10 +78,11 @@
 		"down": "https://s3.us-east-2.amazonaws.com/playbuilds/a12ab661/Play.ipa",
 		"dev": "Jean-Philip Desjardins",
 		"category": "Emulators",
-		"description": "A PlayStation2 emulator",
 		"changelog": "- Fixed some more issues with CD-ROM CHD support (ex.: Zombie Virus).\n- Improved handling of floating point clamping, fixing issues with games like TMNT3, Drakengard and many others.\n- Other compatibility fixes (Toy Story 3, Wall-E are now playable).\n- Fixed some save state stability issues.",
+		"description": "A PlayStation2 emulator",
 		"banner": "https://cdn.oatmealdome.me/wp-content/uploads/2022/05/22211820/banner.png",
-		"contact": "https://purei.org/"
+		"contact": 
+			"Dev Website": "https://purei.org/"
 	}, {
 		"name": "DolphiniOS",
 		"version": "3.2.0 (211)",
@@ -88,14 +90,13 @@
 		"down": "https://github.com/OatmealDome/dolphin/releases/download/3.2.0/DolphiniOS-NJB-3.2.0-211.ipa",
 		"dev": "OatmealDome",
 		"category": "Emulators",
-		"bundleID": "me.oatmealdome.dolphiniod-njb",
-		"description": "A GameCube and Wii emulator for iOS and iPadOS",
 		"changelog": "Please see the 3.2.0 blog post for more information. https://oatmealdome.me/blog/dolphinios-ver-3-2-0/",
-		"banner": "https://cdn.oatmealdome.me/wp-content/uploads/2022/05/22211820/banner.png",
+		"description": "A GameCube and Wii emulator for iOS and iPadOS",
+		"banner": "https://pbs.twimg.com/media/FEdGuTYacAET7eH?format=png&name=large",
 		"screenshots": "https://cdn.oatmealdome.me/wp-content/uploads/2022/05/22203251/image_2022-05-22_14-51-06-1200x2596.png",
-		"contact": [
-			"https://dolphinios.oatmealdome.me/",
-			"https://twitter.com/DolphinforiOS"
-		]
+		"contact": {
+			"Dev Website": "https://dolphinios.oatmealdome.me/",
+			"twitter": "https://twitter.com/DolphinforiOS"
+		}
 	}]
 }
