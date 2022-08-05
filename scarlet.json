@@ -25,5 +25,21 @@
 			"https://www.ppsspp.org/",
 			"https://twitter.com/ppsspp_emu"
 		]
+	}, {
+		"name": "DolphiniOS",
+		"version": "3.2.0 (211)",
+		"icon": "https://raw.githubusercontent.com/dolphin-emu/dolphin/master/Data/dolphin-emu.png",
+		"down": "https://github.com/OatmealDome/dolphin/releases/download/3.2.0/DolphiniOS-NJB-3.2.0-211.ipa",
+		"dev": "OatmealDome",
+		"category": "Emulators",
+		"bundleID": "me.oatmealdome.dolphiniod-njb",
+		"description": "A GameCube and Wii emulator for iOS and iPadOS",
+		"changelog": "Please see the 3.2.0 blog post for more information. https://oatmealdome.me/blog/dolphinios-ver-3-2-0/",
+		"banner": "https://cdn.oatmealdome.me/wp-content/uploads/2022/05/22211820/banner.png",
+		"screenshots": "https://cdn.oatmealdome.me/wp-content/uploads/2022/05/22203251/image_2022-05-22_14-51-06-1200x2596.png",
+		"contact": [
+			"https://dolphinios.oatmealdome.me/",
+			"https://twitter.com/DolphinforiOS"
+		]
 	}]
 }
