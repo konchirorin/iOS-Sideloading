@@ -22,7 +22,7 @@
 		"down": "https://github.com/Sileo/Sileo/releases/download/2.3/sileo_demo_2.3.ipa",
 		"dev": "Sileo-Team",
 		"category": "Jailbreaks",
-		"description": " A Demonstration of Sileo, modern Package Manager. Non-jailbroken users can experience the same speed as jailbroken users!",
+		"description": "Non-jailbroken users can experience the same speed as jailbroken users!",
 		"banner": "https://pbs.twimg.com/profile_banners/1019260900950364160/1545686584/1500x500",
 		"screenshots": [
 			"https://pbs.twimg.com/media/FPZEnC7WQAAQEDP?format=png&name=large",
@@ -41,8 +41,6 @@
 		"dev": "Zebra-Team",
 		"category": "Jailbreaks",
 		"changelog": "- Added category icons, made by alpha\n- Added a handler for if sbreload fails to run\n- Updated localisations\n- Fixed bug where payments would fail on Face ID devices\n- Memory optimisations and reduce number of excess objects made\n- Fix bug where certain packages could cause a crash due to bad characters in versions\n- Change Havoc to be a default repo replacing Packix\n- Fixed bug where images would sometimes take longer than expected to load in\n- Fix misc crashes",
-		"description": " A Temonstration of Zebra, Useful Package Manager for iOS",
-		"banner": "https://pbs.twimg.com/profile_banners/1127487133990526976/1557677350/1500x500",
 		"screenshots": "https://pbs.twimg.com/media/EQEI2GWX0AA4lR9?format=png&name=large",
 		"contact": {
 			"Dev Website": "https://getzbra.com/",
@@ -57,7 +55,7 @@
 		"dev": "PPSSPP-Team",
 		"category": "Emulators",
 		"changelog": "- Confirmation dialog added before change of MAC address\n- IR interpreter regression fixed\n- Fix clearing of replacement texture cache\n- Improved Portuguese-pt translation\n- Fix graphical regression in Split/Second\n- Couple of minor crash fixes",
-		"description": "A fast and portable PSP emulator",
+		"description": "A fast and portable PSP emulator.",
 		"banner": "https://pbs.twimg.com/profile_banners/764091650/1490958762/1500x500",
 		"screenshots": [
 			"https://play-lh.googleusercontent.com/HAp1cxykBnmG9b_w2NTFv_z_zgxpQB0pGYQw74fg6aY4egDlW-MQ_Rv5fCcMhgN5zpo=w5120-h2880",
@@ -76,10 +74,10 @@
 		"version": "0.54",
 		"icon": "https://raw.githubusercontent.com/jpd002/Play-/master/icons/icon_base.png",
 		"down": "https://s3.us-east-2.amazonaws.com/playbuilds/a12ab661/Play.ipa",
-		"dev": "Jean-Philip Desjardins",
+		"dev": "jpd",
 		"category": "Emulators",
 		"changelog": "- Fixed some more issues with CD-ROM CHD support (ex.: Zombie Virus).\n- Improved handling of floating point clamping, fixing issues with games like TMNT3, Drakengard and many others.\n- Other compatibility fixes (Toy Story 3, Wall-E are now playable).\n- Fixed some save state stability issues.",
-		"description": "A PlayStation2 emulator",
+		"description": "A PlayStation2 emulator.",
 		"banner": "https://cdn.oatmealdome.me/wp-content/uploads/2022/05/22211820/banner.png",
 		"contact": 
 			"Dev Website": "https://purei.org/"
@@ -91,7 +89,7 @@
 		"dev": "OatmealDome",
 		"category": "Emulators",
 		"changelog": "Please see the 3.2.0 blog post for more information. https://oatmealdome.me/blog/dolphinios-ver-3-2-0/",
-		"description": "A GameCube and Wii emulator for iOS and iPadOS",
+		"description": "A GameCube and Wii emulator for iOS and iPad OS.",
 		"banner": "https://pbs.twimg.com/media/FEdGuTYacAET7eH?format=png&name=large",
 		"screenshots": "https://cdn.oatmealdome.me/wp-content/uploads/2022/05/22203251/image_2022-05-22_14-51-06-1200x2596.png",
 		"contact": {
