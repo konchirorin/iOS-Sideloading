@@ -32,7 +32,7 @@
 			"https://pbs.twimg.com/media/EHOY1a4VUAAz4s3?format=png&name=large"
 		],
 		"contact": {
-			"Dev Website": "https://getsileo.app/",
+			"web": "https://getsileo.app/",
 			"twitter": "https://twitter.com/getsileo"
 		}
 	}, {
@@ -45,7 +45,7 @@
 		"changelog": "- Added category icons, made by alpha\n- Added a handler for if sbreload fails to run\n- Updated localisations\n- Fixed bug where payments would fail on Face ID devices\n- Memory optimisations and reduce number of excess objects made\n- Fix bug where certain packages could cause a crash due to bad characters in versions\n- Change Havoc to be a default repo replacing Packix\n- Fixed bug where images would sometimes take longer than expected to load in\n- Fix misc crashes",
 		"screenshots": "https://pbs.twimg.com/media/EQEI2GWX0AA4lR9?format=png&name=large",
 		"contact": {
-			"Dev Website": "https://getzbra.com/",
+			"web": "https://getzbra.com/",
 			"twitter": "https://twitter.com/getZebra"
 		}
 	}],
@@ -68,7 +68,7 @@
 			"https://www.ppsspp.org/img/screens/NARUTO_SHIPPUDEN_Ultimate_Ninja_Impact_-_A_Yuanda.jpg"
 		],
 		"contact": {
-			"Dev Website": "https://www.ppsspp.org/",
+			"web": "https://www.ppsspp.org/",
 			"twitter": "https://twitter.com/ppsspp_emu"
 		}
 	}, {
@@ -82,7 +82,7 @@
 		"description": "A PlayStation2 emulator.",
 		"banner": "https://cdn.oatmealdome.me/wp-content/uploads/2022/05/22211820/banner.png",
 		"contact": {
-			"Dev Website": "https://purei.org/"
+			"Web": "https://purei.org/"
 		}
 	}, {
 		"name": "DolphiniOS",
@@ -91,11 +91,12 @@
 		"down": "https://github.com/OatmealDome/dolphin/releases/download/3.2.0/DolphiniOS-NJB-3.2.0-211.ipa",
 		"dev": "OatmealDome",
 		"category": "Emulators",
+		"changelog": "Please see the 3.2.0 blog post for more information. https://oatmealdome.me/blog/dolphinios-ver-3-2-0/",
 		"description": "A GameCube and Wii emulator for iOS and iPad OS.",
 		"banner": "https://pbs.twimg.com/media/FEdGuTYacAET7eH?format=png&name=large",
 		"screenshots": "https://cdn.oatmealdome.me/wp-content/uploads/2022/05/22203251/image_2022-05-22_14-51-06-1200x2596.png",
 		"contact": {
-			"Dev Website": "https://dolphinios.oatmealdome.me/",
+			"web": "https://dolphinios.oatmealdome.me/",
 			"twitter": "https://twitter.com/DolphinforiOS"
 		}
 	}]
