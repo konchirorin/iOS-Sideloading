@@ -7,7 +7,6 @@
 		"name": "Cheyote Demo",
 		"version": "1.0",
 		"icon": "https://pbs.twimg.com/profile_images/1548987697196408834/1UhCWE7P_400x400.jpg",
-		"down": "https://mega.nz/file/EOYyxR7a#XSF3kKbGcvC8Ltwq_EruALnE1YMjJyq-UcVQgl8DN04",
 		"dev": "haxi0",
 		"category": "Jailbreaks",
 		"description": "A demonstration of Jailbreak iOS 15-15.1.1",
@@ -57,6 +56,7 @@
 		"category": "Emulators",
 		"changelog": "- Confirmation dialog added before change of MAC address\n- IR interpreter regression fixed\n- Fix clearing of replacement texture cache\n- Improved Portuguese-pt translation\n- Fix graphical regression in Split/Second\n- Couple of minor crash fixes",
 		"description": "A fast and portable PSP emulator.",
+		"bundleID": "org.ppsspp.ppsspp",
 		"banner": "https://pbs.twimg.com/profile_banners/764091650/1490958762/1500x500",
 		"screenshots": [
 			"https://play-lh.googleusercontent.com/HAp1cxykBnmG9b_w2NTFv_z_zgxpQB0pGYQw74fg6aY4egDlW-MQ_Rv5fCcMhgN5zpo=w5120-h2880",
@@ -65,7 +65,6 @@
 			"https://www.ppsspp.org/img/screens/Monster_Hunter_Freedom_Unite_-_Abbanon.jpg",
 			"https://www.ppsspp.org/img/screens/NARUTO_SHIPPUDEN_Ultimate_Ninja_Impact_-_A_Yuanda.jpg"
 		],
-		"bundleID": "org.ppsspp.ppsspp",
 		"contact": {
 			"Dev Website": "https://www.ppsspp.org/",
 			"twitter": "https://twitter.com/ppsspp_emu"
@@ -90,7 +89,6 @@
 		"down": "https://github.com/OatmealDome/dolphin/releases/download/3.2.0/DolphiniOS-NJB-3.2.0-211.ipa",
 		"dev": "OatmealDome",
 		"category": "Emulators",
-		"changelog": "Please see the 3.2.0 blog post for more information. https://oatmealdome.me/blog/dolphinios-ver-3-2-0/",
 		"description": "A GameCube and Wii emulator for iOS and iPad OS.",
 		"banner": "https://pbs.twimg.com/media/FEdGuTYacAET7eH?format=png&name=large",
 		"screenshots": "https://cdn.oatmealdome.me/wp-content/uploads/2022/05/22203251/image_2022-05-22_14-51-06-1200x2596.png",
