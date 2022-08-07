@@ -13,8 +13,9 @@
 		"description": "A demonstration of Jailbreak iOS 15-15.1.1",
 		"banner": "https://upload.wikimedia.org/wikipedia/commons/d/de/Sechium_edule_dsc07767.jpg",
 		"screenshots": "https://pbs.twimg.com/media/FYp-CFkXkAAmFNk?format=png&name=large",
-		"contact": 
+		"contact": {
 			"twitter": "https://twitter.com/haxi0sm"
+		}
 	}, {
 		"name": "Sileo Demo",
 		"version": "2.3",
