@@ -80,8 +80,9 @@
 		"changelog": "- Fixed some more issues with CD-ROM CHD support (ex.: Zombie Virus).\n- Improved handling of floating point clamping, fixing issues with games like TMNT3, Drakengard and many others.\n- Other compatibility fixes (Toy Story 3, Wall-E are now playable).\n- Fixed some save state stability issues.",
 		"description": "A PlayStation2 emulator.",
 		"banner": "https://cdn.oatmealdome.me/wp-content/uploads/2022/05/22211820/banner.png",
-		"contact": 
+		"contact": {
 			"Dev Website": "https://purei.org/"
+		}
 	}, {
 		"name": "DolphiniOS",
 		"version": "3.2.0 (211)",
