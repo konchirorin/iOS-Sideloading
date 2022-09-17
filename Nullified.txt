@@ -1,0 +1,9 @@
+!
+! tittle: Nullified
+||certs.apple.com^
+||certs.g.aaplimg.com^
+||oscp*.apple.*^
+||ocsp*.g.aaplimg.com^
+||ocsp.int-x3.letsencrypt.org^
+*ppq*.apple.com^
+||ppq-ext.v.aaplimg.com^
