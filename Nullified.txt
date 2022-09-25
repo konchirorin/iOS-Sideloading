@@ -1,5 +1,5 @@
 !
-! tittle: Nullified
+! title: Nullified
 !
 ||certs.apple.com^
 ||certs.g.aaplimg.com^
