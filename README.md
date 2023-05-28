@@ -1,6 +1,6 @@
 # Sideload
 ## filter
-Anti-revocation filter for Enterprise App by Apple.  
+Anti-revocation filter for Enterprise App.  
 working on 28/5/2023
 
 ## scarlet.json
